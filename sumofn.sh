@@ -1,4 +1,4 @@
-echo "Enter a number to print its factorial! :"
+echo "Enter a number to print its sum of n numbers! :"
 read num
 a=0
 for (( i=0 ; i<num+1 ; i++ ))
