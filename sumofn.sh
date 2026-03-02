@@ -5,4 +5,4 @@ for (( i=0 ; i<num+1 ; i++ ))
 do
     a=$((i + a))
 done
-echo "The factorial is : $a"
+echo "The sum of n numbers is : $a"
